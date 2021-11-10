@@ -1,2 +1,4 @@
 ## COMENTARIO CRÍTICO DE UNA REPRESENTACIÓN DE DATOS
 Esta forma de representación de datos se presenta muy útil para su objetivo explicativo. Mediante el empleo de los dos ejes, el eje altura y el eje tiempo, se consigue transmitir el máximo de información de forma muy sencilla e intuitiva, al alcance de cualquier persona. Además, se han empleado imágenes realistas de las islas, en las que se ve tanto la parte superficial como aquella submarina que normalmente desconocemos. Encontramos pues una enorme cantidad y variedad de datos gracias a pocas fotos, dos líneas y un mínimo de texto. Por todo ello se puede afirmar que esta infografía cumple con su objetivo de forma muy correcta, sencilla, y además estéticamente muy trabajada y elegante. 
+
+Link: https://pbs.twimg.com/media/FBkAou-XsAIInQv?format=jpg&name=4096x4096
