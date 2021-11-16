@@ -47,3 +47,18 @@ cuándo uso un archivo, en realidad estoy usando un recurso
 - nos aparecen todos los archivos que se llaman 2021-09, entonces elegimos el que queremos abrir y: nano 2021-09-28.md
 
 CON CD SALES DE DONDE ESTÉS A TU HOME
+
+## 16/11
+Para crear un archivo: touch archivo
+Para meter imágenes en la terminal: ls downloads/hola.webp (downloads o donde la hayas guardado en tu pc, hola es el nombre de la imagen que has puesto)
+
+
+Una prueba para ver si una tabla en pdf es convertible con tabula a csv, es hacer una seleccion manual, y sí te deja es que es un texto y no una imagen
+
+- wget enlace para descargar un archivo 
+
+Cuando has descargado un pdf con una tabla, con tabula puedes convertirlo a csv
+
+- xc -l para saber cuantas líneas tiene
+- unzip -l nombredelarchivo (brew install unzip) 
+
