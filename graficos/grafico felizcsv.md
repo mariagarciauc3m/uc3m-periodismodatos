@@ -1,4 +1,4 @@
-## Proceso de creaciópn de un gráfico a través de la base de datos "feliz.csv"
+## Proceso de creación de un gráfico a través de la base de datos "feliz.csv"
 En una primera toma de contacto con Open Refine y Datawrapper he creado un gráfico sencillo. 
 
 En primer lugar, descargué la base de datos a través de la terminal, para después abrirla con Open Refine. Una vez cargado el documento csv, eliminé las columnas que no me eran útiles, como la de los links de los tweets, por ejemplo. Mi objetivo era diseñar un gráfico que mostrara qué días se había felicitado más la Navidad a través de tweets, por lo que me quedé únicamente con las columnas de fehca, la que mostraba el propio tweet y la que indicaba el número de tweets con el que  ese texto se había hecho tendencia. Como solo quería mostrar los días que más se había felicitado la Navidad, con saber las tendencias que han superado un número cncreto de tweets, que es lo que meustra esa columna, me servía. 
@@ -8,4 +8,5 @@ Una vez tenía las tres columnas que quería, los cargué en Datawrapper y comen
 A través de este link se puede acceder al gráfico con Datawrapper: https://www.datawrapper.de/_/y50zY/
 
 
+![y50zY-cu-ndo-se-felicita-m-s-la-navidad-en-twitter-2](https://user-images.githubusercontent.com/90327355/143084481-b4943558-e3b6-4ecf-be2e-f7e3a7a973cf.png)
 
