@@ -22,8 +22,10 @@ Cuando ya tenía todo “bien puesto”, cree una columna nueva basada en la col
 
 Abrí los datos con Datawrapper. Invertí filas y columnas para que las comunidades se colocaran en el eje horizontal y seleccioné un gráfico de barras agrupadas para que se viera a simple vista la diferencia por géneros en cada Comunidad Autónoma. Finalmente escogí el mismo color que en el primer gráfico para un valor y otro en la misma gama pero que hiciera contraste para el otro valor; añadí los mismo datos que en el otro gráfico y descargué la imagen.
 
-![Gráfico creado en DataWrapper a partir de los datos de datos.gob.es](imagenes/graficocovid1.png)
-![Gráfico creado en DataWrapper a partir de los datos de datos.gob.es](imagenes/graficocovid2.png)
+![graficocovid1](https://user-images.githubusercontent.com/90327355/143928800-e5f5a0e4-f9bf-4905-92ef-f97e2f2963fd.png)
+
+![graficocovid2](https://user-images.githubusercontent.com/90327355/143928817-60f685cc-c169-48ae-9a38-f36796c7819e.png)
+
 
 También se puede visualizar desde: https://datawrapper.dwcdn.net/K14yA/1/ y https://datawrapper.dwcdn.net/P2ZiP/1/
 
