@@ -8,6 +8,9 @@ Por otra parte, los datos muestran que la Comunidad de Madrid reúne el mayor n�
 
 Es necesario destacar que las cifras que refieren estas visualizaciones muestran únicamente las muertes por cuya causa se confirmó expresamente que fue el virus de la Covid-19, quedan excluidos todos los fallecidos cuya causa se sospechara que fuera Covid. 
 
+![graficocovid1](https://github.com/mariagarciauc3m/uc3m-periodismodatos/blob/da2d25e1f2fa97a894b2d07fae58da952a22eddc/imagenes/graficocovid1.png)
+
+![graficocovid2](https://user-images.githubusercontent.com/90327355/143928817-60f685cc-c169-48ae-9a38-f36796c7819e.png)
 
 # Cómo han sido diseñados estas visualizaciones de datos
 Como ya se ha mencionado anteriormente, los datos han sido descargados de la página de Datos.gob.es en formato csv. Una vez descargados, los abrí con Open Refine. 
@@ -22,9 +25,7 @@ Cuando ya tenía todo “bien puesto”, cree una columna nueva basada en la col
 
 Abrí los datos con Datawrapper. Invertí filas y columnas para que las comunidades se colocaran en el eje horizontal y seleccioné un gráfico de barras agrupadas para que se viera a simple vista la diferencia por géneros en cada Comunidad Autónoma. Finalmente escogí el mismo color que en el primer gráfico para un valor y otro en la misma gama pero que hiciera contraste para el otro valor; añadí los mismo datos que en el otro gráfico y descargué la imagen.
 
-![graficocovid1](https://user-images.githubusercontent.com/90327355/143928800-e5f5a0e4-f9bf-4905-92ef-f97e2f2963fd.png)
 
-![graficocovid2](https://user-images.githubusercontent.com/90327355/143928817-60f685cc-c169-48ae-9a38-f36796c7819e.png)
 
 
 También se puede visualizar desde: https://datawrapper.dwcdn.net/K14yA/1/ y https://datawrapper.dwcdn.net/P2ZiP/1/
