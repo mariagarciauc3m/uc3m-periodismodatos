@@ -3,4 +3,4 @@ Se trata de una infografía **secuencial**, que busca explicar de forma clara y 
 
 <img width="569" alt="Captura de pantalla 2021-11-09 a las 19 25 43" src="https://user-images.githubusercontent.com/90327355/140982754-3417db28-c8fc-42c1-8d3f-604e802a57ea.png">
 
-esto es una prueba 
+
