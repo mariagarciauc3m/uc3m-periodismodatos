@@ -1,4 +1,4 @@
-## Proceso de creación de un gráfico a través de la base de datos "feliz.csv"
+## PROCESO DE CREACIÓN DE UN GRÁFICO A PARTIR DE UN .CSV
 En una primera toma de contacto con Open Refine y Datawrapper he creado un gráfico sencillo. 
 
 En primer lugar, descargué la base de datos a través de la terminal, para después abrirla con Open Refine. Una vez cargado el documento csv, eliminé las columnas que no me eran útiles, como la de los links de los tweets, por ejemplo. Mi objetivo era diseñar un gráfico que mostrara qué días se había felicitado más la Navidad a través de tweets, por lo que me quedé únicamente con las columnas de fecha, la que mostraba el propio tweet y la que indicaba el número de tweets con el que ese texto se había hecho tendencia. Como solo quería mostrar los días que más se había felicitado la Navidad, con saber las tendencias que han superado un número concreto de tweets, que es lo que muestra esa columna, me servía. 

@@ -1,4 +1,4 @@
-## Tendencia de las defunciones por COVID-19 en España 
+## TENDENCIA DE LAS DEFUNCIONES POR COVID-19 EN ESPAÑA
 
 A partir de los datos publicados por Datos.gob.es y obtenidos del Instituto Nacional de Estadística, se puede observar, en primer lugar, una clara diferencia en el número de defunciones debido a la Covid 19 en el total nacional según el grupo etario; en segundo lugar, se observa que el impacto del virus no ha sido el mismo en todo el territorio nacional, sino que hay significativos contrastes entre comunidades autónomas. 
 
