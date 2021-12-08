@@ -9,18 +9,15 @@ A continuación, en la parte de “header” busqué la línea en la que ponía 
 
 Una vez hecho esto, quería conseguir que en la barra superior de la web aparecieran los títulos de cada entrada y que pinchando en ellos se dirigiera al contenido de dicha entrada. Para ello, un poco más abajo de donde puse mi nombre, en la línea 54, lo modifiqué para que me quedara lo siguiente:
 
-
 li class="nav-item">
             	a class="nav-link" href="ejercicio1.html">Ejercicio 1
-
- y debajo de esto, lo mismo pero en cada línea el html de un ejercicio y su nombre correspondiente 
-
+Debajo de esto, lo mismo pero en cada línea el html de un ejercicio y su nombre correspondiente 
 
 Hice ^O para guardar el archivo, borré el nombre que aparecía y puse el nombre de “ejercicio1.html”, guardé el fichero con un nombre diferente y con ^X salí de nano. Repetí este proceso con el comentario de la segunda infografía y con los dos gráficos creados con Datawrapper, nombrandolos como “ejercicio2.html”, “ejercicio3.html”y “ejercicio4.html”, de forma que se creara una coherencia en los títulos. Comprobé que el contenido se había guardado correctamente entrando con “nano ejercicio1.html”. Lo mismo hice con el index.html, donde escribí en la línea correspondiente una descripción sobre lo que el lector encontrará en la web para que aparezca como presentación en la página de inicio.
 
 Una vez conseguido esto, añadí todo a Github haciendo “git add ejercicio” y tabulé hasta que me aparecieron los cuatro ejercicios. Lo mismo con el comando “git commit -m”, y después git push origin main. 
 
-Cuando ya tenía todo esto, reparé en que tenía algunos fallos, como por ejemplo que no había puesto mi nombre en la parte donde pone autor, o no había cambiado el generador, no había puesto un título, etc., por lo que lo añadí en la parte de “author”, “content”, “meta name”, “title”, etc.
+Cuando ya tenía todo esto, reparé en que tenía algunos fallos, como por ejemplo que no había puesto mi nombre en la parte donde pone autor, o no había cambiado el generador, no había puesto un título, etc., por lo que lo añadí en la parte de “author”, “content”, “meta name”, “title”, etc. Por ello, añadí los datos. 
 
 Tampoco había borrado una frase que aparece al final de todas mis entradas “Back to the default sticky footer minus the navbar.”, por lo que me dirigí a cada html a través de nano y lo edité para que desapareciera. Por último, añadí el archivo “sticky-footer-navbar.css” a la carpeta “css” porque también me faltaba. 
 
