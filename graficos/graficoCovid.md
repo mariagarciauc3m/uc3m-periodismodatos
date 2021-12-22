@@ -3,14 +3,13 @@
 A partir de los datos publicados por Datos.gob.es y obtenidos del Instituto Nacional de Estadística, se puede observar, en primer lugar, una clara diferencia en el número de defunciones debido a la Covid 19 en el total nacional según el grupo etario; en segundo lugar, se observa que el impacto del virus no ha sido el mismo en todo el territorio nacional, sino que hay significativos contrastes entre comunidades autónomas. 
 
 Respecto a la primera visualización de datos podemos destacar una clara tendencia creciente de defunciones conforme va avanzando la edad. Llama la atención el salto a la inversa cuándo se pasan los 95 años, y habría que añadir que al tratarse de datos absolutos y no de porcentajes, es necesario tener en cuenta que estos dos últimos grupos son minoritarios. Es decir, hay muy poca población que se enmarque en estos dos grupos etarios, por lo que el número de defunciones es, necesariamente, menor. 
+![graficocovid1](https://user-images.githubusercontent.com/90327355/147096957-6a2418b4-55b6-41f3-a2df-38fae46cee11.png)
 
-Por otra parte, los datos muestran que la Comunidad de Madrid reúne el mayor número de muertos por el virus hasta la fecha, tanto en hombres como en mujeres. Se observa también un mayor impacto en el género masculino en todas las regiones geográficas, siendo, por lo general, mayor esta diferencia cuanto mayor es la cifra de defunciones. Le siguen Cataluña, Andalucía y muy seguido Castilla León. Las ciudades autónomas y los archipiélagos encabezan la lista por abajo, junto con Cantabria, que también muestra “buenos” resultados. 
+Por otra parte, en la segunda visualización los datos muestran que la Comunidad de Madrid reúne el mayor número de muertos por el virus hasta la fecha, tanto en hombres como en mujeres. Se observa también un mayor impacto en el género masculino en todas las regiones geográficas, siendo, por lo general, mayor esta diferencia cuanto mayor es la cifra de defunciones. Le siguen Cataluña, Andalucía y muy seguido Castilla León. Las ciudades autónomas y los archipiélagos encabezan la lista por abajo, junto con Cantabria, que también muestra “buenos” resultados. 
+![graficocovid2](https://user-images.githubusercontent.com/90327355/143928817-60f685cc-c169-48ae-9a38-f36796c7819e.png)
 
 Es necesario destacar que las cifras que refieren estas visualizaciones muestran únicamente las muertes por cuya causa se confirmó expresamente que fue el virus de la Covid-19, quedan excluidos todos los fallecidos cuya causa se sospechara que fuera Covid. 
 
-![graficocovid1](https://github.com/mariagarciauc3m/uc3m-periodismodatos/blob/da2d25e1f2fa97a894b2d07fae58da952a22eddc/imagenes/graficocovid1.png)
-
-![graficocovid2](https://user-images.githubusercontent.com/90327355/143928817-60f685cc-c169-48ae-9a38-f36796c7819e.png)
 
 ### Cómo han sido diseñados estas visualizaciones de datos
 Como ya se ha mencionado anteriormente, los datos han sido descargados de la página de Datos.gob.es en formato csv. Una vez descargados, los abrí con Open Refine. 
